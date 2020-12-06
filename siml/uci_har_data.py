@@ -17,7 +17,7 @@ def read_labels(filename):
     return activities
 
 def load():
-    DATA_FOLDER = '../../UCI HAR Dataset/'
+    DATA_FOLDER = '../datasets/UCI HAR Dataset/'
     INPUT_FOLDER_TRAIN = DATA_FOLDER+'train/Inertial Signals/'
     INPUT_FOLDER_TEST = DATA_FOLDER+'test/Inertial Signals/'
 
