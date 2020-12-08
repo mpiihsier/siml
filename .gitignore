@@ -45,3 +45,4 @@ siml/wavemind/requirements.txt
 siml/wavemind/wavemind.wpr
 siml/wavemind/wavemind.wpu
 .DS_Store
+*.flac
